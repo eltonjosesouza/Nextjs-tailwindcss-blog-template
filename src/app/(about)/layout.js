@@ -2,14 +2,16 @@ import InsightRoll from "@/src/components/About/InsightRoll";
 
 
 const insights = [
-    "20+ Projects Completed",
-    "3+ Years of Freelancing",
-    "99% Client Satisfaction",
-    "20K+ Subscribers",
-    "Authored In-Depth Course on Educative",
-    "Contributed as a Technical Course Reviewer 📝",
-    "Recipient of the Hackernoon Noonies Award 🏆",
-  ];
+  "Mais de 20 anos de experiência em desenvolvimento de software",
+  "Líder técnico na Zup Innovation",
+  "Desenvolvimento de aplicativos móveis para iOS e Android",
+  "Expertise em Java, Angular e DevOps",
+  "Larga experiência em metodologias ágeis",
+  "Entrega de produtos de alta qualidade",
+  "Participação em projetos de grande escala",
+  "Contribuições ativas para projetos open source",
+];
+
 
 export default function AboutLayout({ children }) {
   return (

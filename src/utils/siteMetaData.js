@@ -1,22 +1,21 @@
-// please update required information
 const siteMetadata = {
-    title: 'Next.js Blog With Tailwind CSS and Contentlayer',
-    author: 'CodeBucks',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
-    language: 'en-us',
-    theme: 'system', // system, dark or light
-    siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
-    siteLogo: '/logo.png',
-    socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
-    twitter: 'https://twitter.com/code_bucks',
-    facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
-    dribbble: 'https://www.dribbble.com',
-    locale: 'en-US',
-  }
-  
-  module.exports = siteMetadata
+  title: 'Dicas e Insights: Desenvolvimento, Trabalho Remoto e Tecnologia',
+  author: 'Elton José',
+  headerTitle: 'Blog Next.js',
+  description: 'Explore dicas práticas de desenvolvimento, trabalho remoto e tecnologia em meu blog. Uma fonte de insights para aprimorar suas habilidades e maximizar sua produtividade.',
+  language: 'pt-br',
+  theme: 'dark', // system, dark or light
+  siteUrl: 'https://www.eltonjose.com.br', // your website URL
+  siteLogo: '/logo.png',
+  socialBanner: '/logo.png', // add social banner in the public folder
+  email: 'blog@eltonjose.com.br',
+  github: 'https://github.com/eltonjosesouza',
+  twitter: 'https://twitter.com/eltonjose',
+  facebook: 'https://www.facebook.com/eltonjosesouza/',
+  youtube: 'https://youtube.com/eltonjosesouza', // Por favor, forneça o URL real do seu canal no YouTube
+  linkedin: 'https://www.linkedin.com/in/eltonjosesouza/',
+  dribbble: 'https://www.dribbble.com',
+  locale: 'pt-BR',
+}
+
+module.exports = siteMetadata

@@ -17,7 +17,7 @@ const ViewCounter = ({ slug, noCount = false, showCount = true }) => {
         if (error){
             console.error("Error incrementing view count inside try block:", error)
         };
-        
+
       } catch (error) {
         console.error(
           "An error occurred while incrementing the view count:",
@@ -46,7 +46,7 @@ const ViewCounter = ({ slug, noCount = false, showCount = true }) => {
 
 
         setViews(data ? data.count : 0)
-        
+
       } catch (error) {
         console.error(
           "An error occurred while incrementing the view count:",
