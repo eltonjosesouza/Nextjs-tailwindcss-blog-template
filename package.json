@@ -17,6 +17,7 @@
     "@tailwindcss/forms": "^0.5.5",
     "@tailwindcss/typography": "^0.5.9",
     "@vercel/analytics": "^1.1.2",
+    "@vercel/speed-insights": "^1.0.9",
     "autoprefixer": "10.4.15",
     "bufferutil": "^4.0.8",
     "contentlayer": "^0.3.4",
